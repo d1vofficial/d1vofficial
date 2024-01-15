@@ -37,10 +37,10 @@
 <br>
 <p><a href="https://www.buymeacoffee.com/d1vofficial"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="d1vofficial" /></a></p><br><br>
 <br>
-<div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d1vofficial&show_icons=true&locale=en&layout=compact" alt="d1vofficial" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d1vofficial&show_icons=true&locale=en" alt="d1vofficial" /></p>
-</div>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d1vofficial&" alt="d1vofficial" /></p>
