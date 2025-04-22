@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/d1vofficial" target="blank"><img src="https://img.shields.io/twitter/follow/d1vofficial?logo=twitter&style=for-the-badge" alt="d1vofficial" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning to develop **Gen-AI** based apps.
 
 - 🤝 I’m looking for help with **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://tourmaline-twilight-d96588.netlify.app/](https://tourmaline-twilight-d96588.netlify.app/)
 
-- 💬 Ask me about **JAVA, microservices and API's**
+- 💬 Ask me about **JAVA, microservices, API's, Data Engineering**
 
 - 📫 How to reach me **divyam.jain1263@gmail.com**
 
