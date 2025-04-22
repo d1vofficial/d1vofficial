@@ -14,13 +14,13 @@
 
 - 🤝 I’m looking for help with **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://tourmaline-twilight-d96588.netlify.app/](https://tourmaline-twilight-d96588.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://divyamj.netlify.app/](https://divyamj.netlify.app/)
 
 - 💬 Ask me about **JAVA, microservices, API's, Data Engineering**
 
 - 📫 How to reach me **divyam.jain1263@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17q-hR1WbkCm2TVjhdCouYon81i8CFOSZ/view](https://drive.google.com/file/d/17q-hR1WbkCm2TVjhdCouYon81i8CFOSZ/view)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home](https://drive.google.com/drive/u/0/home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
